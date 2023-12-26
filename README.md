@@ -1,9 +1,9 @@
 <div align="center">
   
   <p align="center">
-    <a href="https://github.com/othneildrew/Best-README-Template">A/B Test Report</a>
+    <a href="https://github.com/anatfilossof/projects/blob/main/GloBox%20-%20Report%20A_B%20test%20analysis.pdf">A/B Test Report</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Presentation</a>
+    <a href="https://github.com/anatfilossof/projects/blob/main/GloBox%20-%20A_B%20Test%20presentation.pdf">Presentation</a>
       </p>
 </div>
 
