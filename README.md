@@ -1,3 +1,6 @@
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <div align="center">
   
   <p align="center">
@@ -21,3 +24,7 @@ The project encompasses three stages:
 The additional two files include:
 * A comprehensive written report of the A/B test analysis results with recommendations and conclusions.
 * A storytelling presentation that communicates the high-level results along with my data-driven recommendations and conclusions to non-technical stakeholders.
+
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/anat-filossof-5b03538a/
