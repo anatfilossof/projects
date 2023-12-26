@@ -1,3 +1,12 @@
+<div align="center">
+  
+  <p align="center">
+    <a href="https://github.com/othneildrew/Best-README-Template">A/B Test Report</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Presentation</a>
+      </p>
+</div>
+
 ## About this project
 
 In this project, I analyzed the results of an A/B test that highlights key products in the food and drink category as a banner at the top of the website of an e-commerce company named GloBox. GloBox is an online marketplace specializing in sourcing unique and high-quality products from around the world. Their food and drink offerings have experienced significant growth in recent months, prompting the company to raise awareness of this product category for revenue increasement.
